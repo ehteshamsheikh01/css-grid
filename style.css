@@ -1,7 +1,6 @@
-
 .bg-color{
-   background-color:  #2b2e56;
-}
+    background-color:  #2b2e56;
+ }
 .container{
 display: grid;
 gap: 10px;
